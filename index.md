@@ -13,3 +13,6 @@ and electrical engineering. Welcome!
 
 * [MAGCODE](http://wspr.io/magcode/): models for calculating magnetic fields and interactions
 
+## Code
+
+* The AUMAG team publishes their code to allow [research reproducibility on Github](https://github.com/AUMAG)
